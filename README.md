@@ -10,7 +10,7 @@ xcode12.0版本以下会找不到这个库文件而报错，
 
 iOS开发 ios14系统广告标识idfa获取适配 AppTrackingTransparency.framework
 
-下载地址：https://download.csdn.net/download/tianzhilan0/13076865
+下载地址：https://github.com/shabake/AppTrackingTransparency.framework
 
 将下载后的frameowork放到指定的位置
 
