@@ -1,0 +1,2 @@
+# AppTrackingTransparency.framework
+解决framework not found AppTrackingTransparency
